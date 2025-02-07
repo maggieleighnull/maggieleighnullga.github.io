@@ -3,6 +3,10 @@
 <html> 
 
 <head> 
+
+    <title>My Simple Website</title> 
+
+</head> 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-C9GFRJL8LL"></script>
 <script>
@@ -12,10 +16,6 @@
 
   gtag('config', 'G-C9GFRJL8LL');
 </script>
-
-    <title>My Simple Website</title> 
-
-</head> 
 
 <body> 
 
